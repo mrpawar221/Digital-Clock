@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: black;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Orbitron', sans-serif;
+    position: absolute;
+}
+.digitalClock{
+    color : #17d4fe;
+    font-size: 68px;
+    text-shadow:2px 2px 20px #17d4fe;
+    
+}
